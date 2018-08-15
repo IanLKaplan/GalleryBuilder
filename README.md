@@ -2,7 +2,7 @@
 
 This is a Java application that reads [Gallery](http://galleryproject.org) directories and builds HTML for [Galleria](https://galleria.io) static gallery web sites. A copy of the Galleria JavaScript is included. This JavaScript application is licensed under the MIT open source license.  This code will only work on Gallery directories (albums) that were built using Gallery 2. Gallery 2 uses local PHP code that references local files. Later versions of Gallery stored photos and metadata in a database (e.g., mySQL). This code will not build static galleries from these newer albums.
 
-This code is for sophisticated users, preferably who understand Java code. It builds the HTML for a Galleria gallery, but you will still have to include this HTML on a web page for the gallery.
+This code is for sophisticated users, preferably who understand Java code. It builds the HTML for a Galleria gallery, but you will still have to include this HTML on a web page for the gallery. This application makes it possible to port the Gallery albums, but you will still have some work to do to rebuild your albums.
 
 I wrote this code for the Galleria Folio gallery. This gallery is not open source and is licensed software.
 
@@ -18,3 +18,4 @@ The last piece I needed was this applicaiton, to allow me to build static photo 
 
 Obviously these galleries are not as flexible as the Gallery based photo galleries, which allowed new photos to be added to the gallery. I may add this type of gallery in the future. I have written gallery code for the [nderground](www.nderground.net) social network and I may reuse this code in the future.
 
+When I looked at the Gallery web site, I found that the software is no longer being supported by the original group (see (Gallery is going into hibernation)[http://galleryproject.org/time-to-hibernate]). Hopefully this software will be of use to people who are trying to migrate away from Gallery.
