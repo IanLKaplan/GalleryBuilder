@@ -10,7 +10,9 @@ For many years I hosted my personal domain bearcave.com on a Linux web host. As 
 
 When I mentioned this to my web host, their response was (to put it in polite terms) "too bad for you". I'll note that I was paying my web host $35/months for this "service".
 
-Hosting static web sites on Amazon S3 is extremely inexpensive. When I built a web site for my software consulting company [Top Stone Software](http://www.topstonesoftware.com) I built the site on Amazon.  I've been meaning to move bearcave.com to Amazon to save money, but I kept putting it off since moving such a large web site is a lot of work. When my web host broke my web site, they provided a strong motivation to move.
+Hosting static web sites on Amazon S3 is extremely inexpensive. When I built a web site for my software consulting company [Top Stone Software](http://www.topstonesoftware.com) I built the site on Amazon.  
+
+I've been meaning to move bearcave.com to Amazon to save money, but I kept putting it off since moving such a large web site is a lot of work. When my web host broke my web site, they provided a strong motivation to move.
 
 I wrote the [S3Update](https://github.com/IanLKaplan/S3Update) application to copy and update directory trees from the local system to Amazon S3. This application makes it easier to move and maintain web sites on S3.
 
