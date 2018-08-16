@@ -20,4 +20,4 @@ The last piece I needed was this applicaiton, to allow me to build static photo 
 
 Obviously these galleries are not as flexible as the Gallery based photo galleries, which allowed new photos to be added to the gallery. I may add this type of gallery in the future. I have written gallery code for the [nderground](www.nderground.net) social network and I may reuse this code in the future.
 
-When I looked at the Gallery web site, I found that the software is no longer being supported by the original group (see [Gallery is going into hibernation](http://galleryproject.org/time-to-hibernate) ). Hopefully this software will be of use to people who are trying to migrate away from Gallery.
+When I looked at the Gallery web site, I found that the software is no longer being supported by the original group (see [Gallery is going into hibernation](http://galleryproject.org/time-to-hibernate) ). Hopefully this software will be of use to other people who are trying to migrate away from Gallery 2.
